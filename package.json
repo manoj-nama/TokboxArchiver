@@ -1,0 +1,26 @@
+{
+    "name": "TokboxArchiver",
+    "version": "0.0.0",
+    "description": "Fiddling with tokbox api",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "*",
+        "morgan": "^1.1.1",
+        "body-parser": "^1.3.0",
+        "connect-multiparty": "^1.0.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/manoj-nama/TokboxArchiver.git"
+    },
+    "author": "Manoj Nama",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/manoj-nama/TokboxArchiver/issues"
+    },
+    "homepage": "https://github.com/manoj-nama/TokboxArchiver"
+}
